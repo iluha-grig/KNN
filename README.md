@@ -1,4 +1,4 @@
-# KNN
+# KNN-practice
 
 This project contains KNN algorithm for classification, cross-validation and image augmentation.
 
